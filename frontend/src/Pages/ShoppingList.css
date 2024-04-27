@@ -1,0 +1,28 @@
+.shopping {
+    background-color: white;
+    min-height: 500px;
+}
+
+.shoppingform{
+    width: 450px;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.shopping .form input{
+    display: inline-block;
+    width: unset;
+}
+
+.shopping.list{
+
+}
+
+.shopping.list li{
+    
+}
+
